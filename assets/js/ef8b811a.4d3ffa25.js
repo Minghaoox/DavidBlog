@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[8947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"David Bear","title":"Love Miao \ud83e\udd70","url":"https://github.com/Minghaoox","imageURL":"https://raw.githubusercontent.com/Minghaoox/pics/main/myicon.png","key":"David","page":null,"count":1}]}')}}]);
